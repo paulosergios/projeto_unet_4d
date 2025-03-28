@@ -65,6 +65,7 @@ To run the code, ensure you have the following dependencies installed:
 - Matplotlib
 - Nibabel
 - Scikit-image
+- Skimage
 
 Install the requirements using:
 
