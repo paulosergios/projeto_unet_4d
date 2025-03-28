@@ -60,7 +60,7 @@ The primary objectives of this project include:
 
 To run the code, ensure you have the following dependencies installed:
 - Python 3.8+
-- TensorFlow 2.x
+- TensorFlow 2.15
 - NumPy
 - Matplotlib
 - Nibabel
